@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class RevertePalavras {
     /**
      * Inverte a ordem das palavras
@@ -47,24 +45,5 @@ public class RevertePalavras {
             
             comeco = fim;
         }
-    }
-
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Digite uma frase: ");
-        String input = scanner.nextLine();
-        char[] sentence = input.toCharArray();
-
-        // Remove a quebra de linha do final da frase
-        int length = sentence.length;
-        if (sentence[length - 1] == '\n') {
-            sentence[length - 1] = '\0';
-            length--;
-        }
-
-        // Inverte a ordem das palavras dentro da frase
-        revertePalavras(sentence);
-
-        System.out.println("Frase com palavras invertidas: " + new String(sentence, 0, length));
     }
 }

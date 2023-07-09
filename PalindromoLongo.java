@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class PalindromoLongo {
     /**
      * Método auxiliar que retorna o tamanho da substring palíndroma
@@ -24,7 +22,7 @@ public class PalindromoLongo {
      * Método para encontrar o maior palíndromo
      * @param string A string que será processada.
      */ 
-        private static String palindromoLongo(String string) {
+        public static String palindromoLongo(String string) {
         int tamanhoString = string.length();
 
         if (tamanhoString < 2) {
