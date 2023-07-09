@@ -5,7 +5,7 @@ Para a execução do projeto, é necessário que, primeiro, você certifique-se 
 
 ### Para compilar e executar o programa em Java, basta seguir o seguinte procedimento:
 
-1º: Vá até o diretório do programa (./Desafio PwC);
+1º: Vá até o diretório do programa (./Desafio_PwC);
 
 2º: Execute no terminal "javac Main.java". Isso gerará um arquivo "Main.class"
 
