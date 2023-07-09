@@ -13,5 +13,6 @@ Para a execução do projeto, é necessário que, primeiro, você certifique-se 
 
 ### Descrição do Desafio para a vaga:
 
-![unnamed](https://github.com/rafael-timoteo/Desafio-de-Codigo-PwC/assets/99102732/3259785b-357f-47e5-9a18-23b8c8f2f889)
-![unnamed (1)](https://github.com/rafael-timoteo/Desafio-de-Codigo-PwC/assets/99102732/eb060cb7-cf38-494d-96bc-2c5eef786e79)
+![unnamed](https://github.com/rafael-timoteo/Desafio-de-Codigo-PwC/assets/99102732/494d93a9-159c-49c5-be5d-d147cd7b8fe3)
+![unnamed (1)](https://github.com/rafael-timoteo/Desafio-de-Codigo-PwC/assets/99102732/fb12eec5-f89f-4ecb-9407-182f53d367c8)
+
