@@ -1,11 +1,11 @@
 public class PalindromoLongo {
     /**
-     * Método auxiliar que retorna o tamanho da substring palíndroma
-     * @param string A string que será processada;
-     * @param esquerda A parte da string que será decrementada para pegar os elementos da esquerda;
-     * @param direita A parte da string que será incrementada para pegar os elementos da direita;
-     */ 
-        private static int expandeString(String string, int esquerda, int direita) {
+    * Método auxiliar que retorna o tamanho da substring palíndroma
+    * @param string A string que será processada;
+    * @param esquerda A parte da string que será decrementada para pegar os elementos da esquerda;
+    * @param direita A parte da string que será incrementada para pegar os elementos da direita;
+    */ 
+    private static int expandeString(String string, int esquerda, int direita) {
         int tamanhoString = string.length();
 
         // Expande a substring
@@ -19,10 +19,10 @@ public class PalindromoLongo {
     }
 
     /**
-     * Método para encontrar o maior palíndromo
-     * @param string A string que será processada.
-     */ 
-        public static String palindromoLongo(String string) {
+    * Método para encontrar o maior palíndromo
+    * @param string A string que será processada.
+    */ 
+    public static String palindromoLongo(String string) {
         int tamanhoString = string.length();
 
         if (tamanhoString < 2) {
