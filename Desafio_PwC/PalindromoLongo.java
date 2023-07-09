@@ -50,23 +50,5 @@ public class PalindromoLongo {
         // Retorna a substring palíndroma mais longa
         return string.substring(comecoDaSubstring, comecoDaSubstring + tamanhoSubstring);
     }
-
-    /*
-    *public static void main(String[] args) {
-    *    Scanner scanner = new Scanner(System.in);
-    *    System.out.print("Digite uma string: ");
-    *    String str = scanner.nextLine();
-    *
-    *    // Remove a quebra de linha do final da string
-    *    if (str.endsWith("\n")) {
-    *        str = str.substring(0, str.length() - 1);
-    *    }
-    *
-    *    // Encontra a substring palíndroma mais longa
-    *    String longestPalindrome = palindromoLongo(str);
-    *
-    *    System.out.println("Substring palíndroma mais longa: " + longestPalindrome);
-    *}
-    */ 
 }
 
